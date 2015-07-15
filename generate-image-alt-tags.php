@@ -3,7 +3,7 @@
 * Plugin Name: Generate Image Alt Tags
 * Plugin URI: http://andrewmgunn.com/generate-image-alt-tags/
 * Description: Automatically generate and update image Alt tags for images in the database where the Alt attribute is blank and make your site more SEO friendly.
-* Version: 1.0
+* Version: 1.1
 * Author: Andrew M. Gunn
 * Author URI: http://andrewmgunn.com
 * Text Domain: generate-image-alt-tags
