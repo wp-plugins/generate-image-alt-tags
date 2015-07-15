@@ -52,7 +52,6 @@ jQuery(document).ready(function($) {
 				if (log.length > 0) {
 					log = log.toString();
 					Console.log(log);
-					alert(log);
 				}
 
 			}
