@@ -1,10 +1,10 @@
-=== Generate Image Alt Tags ===
+=== Easy Image SEO Tags ===
 Contributors: amg26
 Tags: seo image, image tags, alt tags, seo image tags
 Donate link: http://andrewmgunn.com/donate/
 Requires at least: 3.5
 Tested up to: 4.3
-Stable tag: 1.2.1
+Stable tag: 1.2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

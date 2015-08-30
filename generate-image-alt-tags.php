@@ -3,7 +3,7 @@
 * Plugin Name: Easy Image SEO Tags
 * Plugin URI: http://andrewmgunn.com/
 * Description: Automatically generate and save alt tags to database when images are uploaded & clientside SEO image tag optimization.
-* Version: 1.2.1
+* Version: 1.2.2
 * Author: Andrew M. Gunn
 * Author URI: http://andrewmgunn.com
 * Text Domain: generate-image-alt-tags
