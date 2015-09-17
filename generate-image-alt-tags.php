@@ -1,9 +1,9 @@
 <?php
 /*
-* Plugin Name: Easy Image SEO Tags
-* Plugin URI: http://andrewmgunn.com/
-* Description: Automatically generate and save alt tags to database when images are uploaded & clientside SEO image tag optimization.
-* Version: 1.2.2
+* Plugin Name: Easy Image SEO Tags (New Version: SEO Image Tags)
+* Plugin URI: https://wordpress.org/plugins/seo-image-alt-tags/
+* Description: THIS PLUGIN IS AN OLD UNSUPPORTED VERSION, FOR NEW VERSION SEE SEO Image Tags (https://wordpress.org/plugins/seo-image-alt-tags/)
+* Version: 1.3
 * Author: Andrew M. Gunn
 * Author URI: http://andrewmgunn.com
 * Text Domain: generate-image-alt-tags
